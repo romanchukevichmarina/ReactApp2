@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  overflow: auto;
+  background-repeat: no-repeat;
+  background-color: rgb(58, 58, 58);
+}
+
+.counter {
+  color: white;
+  font-size: 30px;
+}
